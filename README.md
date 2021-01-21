@@ -1,2 +1,2 @@
-# website-buat-gudang
-website sederhana crud pergudangan
+# website-sederhana-mahasiswa
+website sederhana crud daftar mahasiswa
